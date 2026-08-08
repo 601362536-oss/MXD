@@ -1145,5 +1145,7 @@ def admin_update_home_slot(slot_id: int, payload: HomeSlotIn, _: Annotated[User,
     return to_home_slot_out(row)
 
 
+import os as _os
 FRONTEND_DIR = (Path(__file__).resolve().parent.parent.parent / "frontend" / "dist").as_posix()
-app.mount("/", StaticFiles(directory=FRONTEND_DIR, html=True), name="frontend")
+if not _os.environ.get("SKIP_STATIC"):
+    app.mount("/", StaticFiles(directory=FRONTEND_DIR, html=True), name="frontend")

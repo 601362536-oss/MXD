@@ -1,6 +1,8 @@
 import os
 import sys
 
+os.environ["SKIP_STATIC"] = "1"
+
 # Ensure the backend package is importable
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if project_root not in sys.path:
