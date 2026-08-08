@@ -1,0 +1,112 @@
+{
+  "marketWatchlist": [
+    "2040801",
+    "2040802",
+    "2070005",
+    "2070007",
+    "2070006",
+    "2070003",
+    "2070004",
+    "2070010",
+    "2070009",
+    "2070002",
+    "2070008"
+  ],
+  "homeRecommendations": [
+    {
+      "itemId": "2040801",
+      "subtitle": "",
+      "badge": "观察中",
+      "position": 1,
+      "showChange": true
+    },
+    {
+      "itemId": "2040802",
+      "subtitle": "",
+      "badge": "观察中",
+      "position": 2,
+      "showChange": true
+    },
+    {
+      "itemId": "2070005",
+      "subtitle": "",
+      "badge": "观察中",
+      "position": 4,
+      "showChange": true
+    },
+    {
+      "itemId": "2070006",
+      "subtitle": "",
+      "badge": "观察中",
+      "position": 5,
+      "showChange": true
+    },
+    {
+      "itemId": "2070008",
+      "subtitle": "",
+      "badge": "观察中",
+      "position": 6,
+      "showChange": true
+    },
+    {
+      "itemId": "2070003",
+      "subtitle": "",
+      "badge": "观察中",
+      "position": 7,
+      "showChange": true
+    },
+    {
+      "itemId": "2070009",
+      "subtitle": "",
+      "badge": "观察中",
+      "position": 8,
+      "showChange": true
+    },
+    {
+      "itemId": "2070004",
+      "subtitle": "",
+      "badge": "观察中",
+      "position": 9,
+      "showChange": true
+    },
+    {
+      "itemId": "2070010",
+      "subtitle": "",
+      "badge": "观察中",
+      "position": 10,
+      "showChange": true
+    },
+    {
+      "itemId": "gold:国服 / 蓝蜗牛",
+      "subtitle": "怀旧服金币汇率",
+      "badge": "实时汇率",
+      "position": 11,
+      "showChange": true
+    }
+  ],
+  "homeRecommendationSortMode": "volatility",
+  "itemTaxonomy": {
+    "libraries": [
+      "物品库",
+      "装备库"
+    ],
+    "itemCategories": [
+      "消耗品",
+      "设置",
+      "其他",
+      "特殊"
+    ],
+    "equipmentCategories": [
+      "装备",
+      "特殊"
+    ],
+    "kinds": [
+      "行情观察",
+      "开荒常用",
+      "热门",
+      "高等级",
+      "任务",
+      "其他"
+    ]
+  }
+}

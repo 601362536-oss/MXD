@@ -1,0 +1,44 @@
+[
+  {
+    "username": "zhangke7230",
+    "password": "336699",
+    "displayName": "大王",
+    "role": "player",
+    "roles": [
+      "player"
+    ],
+    "avatarColor": "#fb7299",
+    "avatarUrl": "",
+    "bio": "喜欢整理开荒路线和行情观察。",
+    "createdAt": "2026-07-26 21:53"
+  },
+  {
+    "username": "guest",
+    "password": "guest2026",
+    "displayName": "游客账号",
+    "role": "player",
+    "roles": [
+      "player"
+    ],
+    "avatarColor": "#0b9ed5",
+    "avatarUrl": "",
+    "bio": "",
+    "createdAt": "2026-07-26 21:53"
+  },
+  {
+    "username": "admin",
+    "password": "maple2026",
+    "displayName": "管理员",
+    "role": "admin",
+    "roles": [
+      "admin",
+      "moderator",
+      "author",
+      "player"
+    ],
+    "avatarColor": "#0b9ed5",
+    "avatarUrl": "",
+    "bio": "",
+    "createdAt": "2026-07-26 21:53"
+  }
+]

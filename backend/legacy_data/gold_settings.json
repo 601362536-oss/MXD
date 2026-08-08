@@ -1,0 +1,7 @@
+{
+  "marketStatus": "开盘中",
+  "intervalMinutes": 10,
+  "minGoldYi": 10,
+  "deviationPercent": 35,
+  "homeServerKey": "国服 / 蓝蜗牛"
+}
