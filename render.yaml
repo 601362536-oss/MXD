@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: maple-terminal
+    runtime: python
+    region: singapore
+    plan: free
+    buildCommand: cd frontend && npm install && npm run build && cd ../backend && pip install -r requirements.txt
+    startCommand: cd backend && python run.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.13.0
