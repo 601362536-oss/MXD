@@ -1,5 +1,5 @@
 node_modules/
-dist/
+# dist/  -- included for PythonAnywhere deploy
 __pycache__/
 *.pyc
 .venv/

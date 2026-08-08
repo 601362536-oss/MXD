@@ -570,5 +570,137 @@
     "maxPrice": 298.0,
     "avgPrice": 198.8,
     "medianPrice": 198.0
+  },
+  {
+    "sampledAt": "2026-08-08T07:06:14.526224+00:00",
+    "scrollId": "2040801",
+    "scrollName": "手套攻击卷轴 60%",
+    "serverKey": "国服 / 蓝蜗牛",
+    "count": 6,
+    "minPrice": 180.0,
+    "maxPrice": 200.0,
+    "avgPrice": 190.83,
+    "medianPrice": 192.5
+  },
+  {
+    "sampledAt": "2026-08-08T07:06:14.526224+00:00",
+    "scrollId": "2040802",
+    "scrollName": "手套攻击卷轴 10%",
+    "serverKey": "国服 / 蓝蜗牛",
+    "count": 1,
+    "minPrice": 111.0,
+    "maxPrice": 111.0,
+    "avgPrice": 111.0,
+    "medianPrice": 111.0
+  },
+  {
+    "sampledAt": "2026-08-08T07:06:14.526224+00:00",
+    "scrollId": "2040801",
+    "scrollName": "手套攻击卷轴 60%",
+    "serverKey": "国服 / 蘑菇仔",
+    "count": 2,
+    "minPrice": 240.0,
+    "maxPrice": 300.0,
+    "avgPrice": 270.0,
+    "medianPrice": 270.0
+  },
+  {
+    "sampledAt": "2026-08-08T07:06:14.526224+00:00",
+    "scrollId": "2040802",
+    "scrollName": "手套攻击卷轴 10%",
+    "serverKey": "国服 / 蘑菇仔",
+    "count": 1,
+    "minPrice": 180.0,
+    "maxPrice": 180.0,
+    "avgPrice": 180.0,
+    "medianPrice": 180.0
+  },
+  {
+    "sampledAt": "2026-08-08T07:06:14.526224+00:00",
+    "scrollId": "2040801",
+    "scrollName": "手套攻击卷轴 60%",
+    "serverKey": "国服 / 绿水灵",
+    "count": 1,
+    "minPrice": 140.0,
+    "maxPrice": 140.0,
+    "avgPrice": 140.0,
+    "medianPrice": 140.0
+  },
+  {
+    "sampledAt": "2026-08-08T07:06:14.526224+00:00",
+    "scrollId": "2040801",
+    "scrollName": "手套攻击卷轴 60%",
+    "serverKey": "国服 / 漂漂猪",
+    "count": 5,
+    "minPrice": 120.0,
+    "maxPrice": 298.0,
+    "avgPrice": 198.8,
+    "medianPrice": 198.0
+  },
+  {
+    "sampledAt": "2026-08-08T07:16:16.014027+00:00",
+    "scrollId": "2040801",
+    "scrollName": "手套攻击卷轴 60%",
+    "serverKey": "国服 / 蓝蜗牛",
+    "count": 5,
+    "minPrice": 190.0,
+    "maxPrice": 200.0,
+    "avgPrice": 195.0,
+    "medianPrice": 195.0
+  },
+  {
+    "sampledAt": "2026-08-08T07:16:16.014027+00:00",
+    "scrollId": "2040802",
+    "scrollName": "手套攻击卷轴 10%",
+    "serverKey": "国服 / 蓝蜗牛",
+    "count": 2,
+    "minPrice": 99.0,
+    "maxPrice": 111.0,
+    "avgPrice": 105.0,
+    "medianPrice": 105.0
+  },
+  {
+    "sampledAt": "2026-08-08T07:16:16.014027+00:00",
+    "scrollId": "2040801",
+    "scrollName": "手套攻击卷轴 60%",
+    "serverKey": "国服 / 蘑菇仔",
+    "count": 2,
+    "minPrice": 240.0,
+    "maxPrice": 300.0,
+    "avgPrice": 270.0,
+    "medianPrice": 270.0
+  },
+  {
+    "sampledAt": "2026-08-08T07:16:16.014027+00:00",
+    "scrollId": "2040802",
+    "scrollName": "手套攻击卷轴 10%",
+    "serverKey": "国服 / 蘑菇仔",
+    "count": 1,
+    "minPrice": 180.0,
+    "maxPrice": 180.0,
+    "avgPrice": 180.0,
+    "medianPrice": 180.0
+  },
+  {
+    "sampledAt": "2026-08-08T07:16:16.014027+00:00",
+    "scrollId": "2040801",
+    "scrollName": "手套攻击卷轴 60%",
+    "serverKey": "国服 / 绿水灵",
+    "count": 1,
+    "minPrice": 140.0,
+    "maxPrice": 140.0,
+    "avgPrice": 140.0,
+    "medianPrice": 140.0
+  },
+  {
+    "sampledAt": "2026-08-08T07:16:16.014027+00:00",
+    "scrollId": "2040801",
+    "scrollName": "手套攻击卷轴 60%",
+    "serverKey": "国服 / 漂漂猪",
+    "count": 5,
+    "minPrice": 120.0,
+    "maxPrice": 298.0,
+    "avgPrice": 198.8,
+    "medianPrice": 198.0
   }
 ]
